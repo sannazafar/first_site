@@ -1,0 +1,58 @@
+{
+  margin:0;
+  padding:0;
+}
+ h1{
+   color:green;
+ }
+
+ body{
+   background-color: #f4f4f4
+   color:#555555;
+   font-family: Arial, Helvetica
+
+
+
+   font-size: 12px;
+   font-weight: normal;
+
+
+   line-height: 1.6em;
+
+ }
+
+ a{
+   text-decoration: none;
+   color:#black
+}
+a:hover{
+  color: red;
+}
+
+
+.container{
+  width:80%
+  margin:auto;
+}
+.button{
+  background-color: #333333;
+  color: #ffffff;
+  padding:10px 15px;
+  border:none;
+}
+.button:hover{
+  background:red;
+  color:white;
+}
+
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
+}
